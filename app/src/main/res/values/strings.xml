@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Evaluacion1</string>
+    <string name="btn_Nuevo">Nuevo Estudiante</string>
+    <string name="btn_Lista">Lista Estudiantes</string>
+    <string name="edt_Nombre">Nombre</string>
+    <string name="edt_Codigo">Código</string>
+    <string name="edt_Materia">Materia</string>
+    <string name="edt_Primer">Primer Parcial   :30%</string>
+    <string name="edt_Segundo">Segundo Parcial   :30%</string>
+    <string name="edt_Tercer">Tercer Parcial  :40%</string>
+    <string name="btn_Guardar">Guardar</string>
+</resources>
